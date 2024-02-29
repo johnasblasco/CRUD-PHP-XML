@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <code>Movie 1</code>
+        <title>Badland Huanters as dsa das</title>
+        <actor>Ma Dong-Seok as das d</actor>
+        <genre>Action asd as das</genre>
+        <dor>January 26, 2024 asd asd</dor>
+    </movie>
+    
+    <movie>
+        <code>Movie 3</code>
+        <title>Extraction</title>
+        <actor>Chris Hermsworth</actor>
+        <genre>Crime Fiction</genre>
+        <dor>April 24, 2020</dor>
+    </movie>
+    <movie>
+        <code>Movie 4</code>
+        <title>Hunger</title>
+        <actor>Nopachai Chaiyaman</actor>
+        <genre>Drama</genre>
+        <dor>April 6, 2023</dor>
+    </movie>
+    <movie>
+        <code>Movie 5</code>
+        <title>Unlocked</title>
+        <actor>Im Si-Wan </actor>
+        <genre>Mystery</genre>
+        <dor>February 17, 2023</dor>
+    </movie>
+    <movie>
+        <code>Movie 6</code>
+        <title>Heart of Stone</title>
+        <actor>Gal Gadot</actor>
+        <genre>Action</genre>
+        <dor>August 11, 2023</dor>
+    </movie>
+    <movie>
+        <code>Movie 7</code>
+        <title>Prison Break</title>
+        <actor>Wenworth Miller</actor>
+        <genre>Detective Fiction</genre>
+        <dor>August 9, 2005-MAy 30, 2017</dor>
+    </movie>
+    
+    
+    
+    </movies>
