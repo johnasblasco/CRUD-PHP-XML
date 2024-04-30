@@ -49,7 +49,7 @@
             font-size: 1rem;
         }
         
-        input[type="submit"]:hover {
+        input[type="submit"]:hover {    
             background-color: #0056b3;
         }
         button {
